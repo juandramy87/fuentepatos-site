@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_originales/
+Sitemap: https://fuentepatos.com/sitemap.xml
